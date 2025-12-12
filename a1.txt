@@ -1,1 +1,2 @@
 This is simple a1 text file
+Another new file is created
